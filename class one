@@ -1,0 +1,30 @@
+一、常用快捷键
+Ctrl +A 全选
+Ctrl +Z 撤销
+Ctrl +X 剪切
+Ctrl +C 复制
+Ctrl +V 粘贴
+Ctrl +B 加粗
+Ctrl +S 保存
+Ctrl +F 查找
+Ctrl +H 替换
+Alter+Enter单元格内强制换行 （选项卡中自动换行只能是超出方格后换行）
+二、区域选择
+Home 移到工作表某一行开头
+Ctrl+home 定位到工作表A1单元格
+Ctrl+shift+home 可将单元格的选定范围扩展到工作表的开头
+Ctrl+shift+下箭头 向下快速选中连续区域
+Ctrl+shift+右箭头 向右快速选中连续区域
+Ctrl+上下左右箭头 快速定位数据区域边界
+Ctrl+pgup 工作表选项卡从左至右切换
+Ctrl+pgdn 工作表选项卡从右至左切换
+三、其他
+Ctrl +N 创建新工作簿
+Ctrl +R 向右填充最左侧单元格内容
+Ctrl +D 向下填充最上单元格内容
+Ctrl +；输入当前日期
+四、F键（若F键有双重功能 需按住fn+F键）
+f4 重复上一步操作
+五、基础操作题
+1、填充空格
+
